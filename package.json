@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-ci-cd-demo",
+  "version": "1.0.0",
+  "description": "A simple demo for Jenkins CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
